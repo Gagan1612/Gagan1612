@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gagan1612
+ #  Hi there, I’m Gagan Thakur 👋
 - 👀 I’m interested in Data Science, Machine Learning and Cloud Computing.
 - 🌱 I’m currently learning Python and it's Framework.
 - 💞️ I’m looking to collaborate on to get an idea for my project and work with me.
